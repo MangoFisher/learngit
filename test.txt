@@ -7,3 +7,5 @@ this line is from branch-feature1
 this line is from branch-dev
 
 edit this file beacuse of bug in branch-master
+
+edit this file beacuse of bug in branch-issue-101
