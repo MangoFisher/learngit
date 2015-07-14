@@ -1,2 +1,6 @@
 this is from file test.txt
+
 this line is from branch-master
+
+this line is from branch-feature1
+
