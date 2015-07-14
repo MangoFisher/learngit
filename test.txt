@@ -4,3 +4,5 @@ this line is from branch-master
 
 this line is from branch-feature1
 
+this line is from branch-dev
+
